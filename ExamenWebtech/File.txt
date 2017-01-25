@@ -1,0 +1,1 @@
+{"NaamPatient":"Talha","NaamVerpleegkundige":"Verpleegkundige","Diagnose":"Zot","DatumenUur":"01/09/2017U15-27","Geboortedatum":"20/10/1993"}{"NaamPatient":"Talha2","NaamVerpleegkundige":"Verpleegkundige22","Diagnose":"Zot22","DatumenUur":"01/09/2016U15-27","Geboortedatum":"20/10/1996"}

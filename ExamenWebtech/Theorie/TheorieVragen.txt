@@ -1,0 +1,32 @@
+1) 
+
+SOAP
+-----
+Webservices zijn een manier om verschillende systemen op verschillende OS'en met elkaar te laten communiceren
+Bij SOAP gaat men de acties uitvoeren met behulp van XML --> zowel de get en de call is in XML, omdat het in tekst is. 
+
+Idempotentie= Er verandert niets aan de andere kant(call)
+
+Met SOAP kan je gebruik maken van WSDL. 
+
+
+REST
+-----
+REST gaat daarintegen met JSON werken.
+Requests in REST gebruiken nooit XML.
+
+De voordelen van REST zijn :
+- Sneller 
+- Makkelijker
+- Minder data
+------------------------------------------------------------------------
+WEBSERVICES zijn stateless--> je kunt niets aanpassen
+
+_____________________________________________________________________________________________________________________________________
+
+2) 
+
+1) De respons in REST is meestal XML dus is het well-formed (type-safety)
+
+2) Als de respons niet XML is, kun je het parsen naar XML en zo gebruik maken van die type-safety.
+
